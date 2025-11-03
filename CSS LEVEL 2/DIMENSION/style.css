@@ -1,0 +1,12 @@
+.box{
+    border: 2px solid black;
+    max-width: 200px;
+    max-height: 200px;
+    overflow: scroll;
+}
+.sbox{
+    border: 2px solid black;
+    min-height: 100px;
+    min-width: 100px;
+    
+}

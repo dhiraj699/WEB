@@ -1,0 +1,21 @@
+.conatiner{
+    border: 1px solid brown;
+    background-color: yellow;
+    display: grid;
+    height: 700px;
+    width: 400px;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px;
+    grid-gap: 10px;
+
+    justify-content: start;
+    justify-content: end;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    justify-content: space-evenly;
+}
+.box{
+    border: 1px solid red;
+    background-color: aqua;
+}

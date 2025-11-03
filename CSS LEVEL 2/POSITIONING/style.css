@@ -1,0 +1,24 @@
+/* p{
+    position: static;
+} */
+ div{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    border: 1px solid black;
+ }
+ #cbox{
+    position: relative;
+    top: 10px;
+    left: 10px;
+ }
+
+ #abox{
+    position: fixed;
+ }
+ .wrapper{
+    width: 100vw;
+    height: 1000px;
+    background-color: lightgreen;
+ }
